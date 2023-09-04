@@ -1,0 +1,6 @@
+TictactoeJavaCommonConventionsPlugin.java
+ TictactoeJavaCommonConventionsPlugin
+TictactoeJavaLibraryConventionsPlugin.java
+ TictactoeJavaLibraryConventionsPlugin
+TictactoeJavaApplicationConventionsPlugin.java
+ TictactoeJavaApplicationConventionsPlugin
